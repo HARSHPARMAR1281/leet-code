@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
