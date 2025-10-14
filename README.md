@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0162-find-peak-element) |
+| [2047-find-a-peak-element-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0162-find-peak-element) |
+| [2047-find-a-peak-element-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2047-find-a-peak-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [2047-find-a-peak-element-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2047-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
