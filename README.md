@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0162-find-peak-element) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1646-kth-missing-positive-number) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0162-find-peak-element) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1646-kth-missing-positive-number) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
 ## Sorting
 |  |
