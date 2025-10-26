@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2047-find-a-peak-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
