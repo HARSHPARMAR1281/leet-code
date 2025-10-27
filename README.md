@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
