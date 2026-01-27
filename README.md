@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
