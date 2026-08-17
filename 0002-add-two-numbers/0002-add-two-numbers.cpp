@@ -14,7 +14,7 @@ public:
       ListNode* head = new ListNode();
         ListNode* current = head;
         int carry = 0;
-
+        ListNode* last;
         while (l1!= nullptr||l2 !=nullptr ||carry) {
             int sum = carry;
             if (l1 != nullptr) {
@@ -26,9 +26,12 @@ public:
                 l2 = l2->next;
             }
             carry = sum / 10;
-            current->next = new ListNode(sum % 10);
-            current = current->next;
+            current -> val = sum%10; //current -> next = new ListNode(sum % 10);
+            current -> next = new ListNode();  
+            last = current;
+            current = current -> next;   //current = current->next;
         }
-        return head->next;
+        last  -> next = nullptr;
+        return head;
     }
 };
