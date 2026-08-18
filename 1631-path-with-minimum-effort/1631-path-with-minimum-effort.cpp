@@ -31,6 +31,7 @@ public:
                 int edgeEffort = abs(heights[r][c] - heights[nr][nc]);
 
                 int newEffort = max(effort, edgeEffort);
+                
 
                 if (newEffort < dist[nr][nc]) {
                     dist[nr][nc] = newEffort;
