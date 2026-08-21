@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
@@ -82,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -152,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
