@@ -25,6 +25,7 @@ public:
             }
         }
     }
+    
     int makeConnected(int n, vector<vector<int>>& connections) {
         
         if(connections.size() < n-1) return -1;
@@ -34,23 +35,21 @@ public:
         }
         vector<int> arr(n,0);
         unionbyrank(parent , arr , n , connections);
+        
         int cables = connections.size();
         int total_grps = 0;
         int cables_used = 0;
+        
         for(int i =0 ;i< n; i++){
             if(parent[i] == i){
                 total_grps++;
                 cables_used = cables_used + arr[i];
             }
         }
+        
         cables = cables - cables_used;
+        
         if(cables >= total_grps - 1) return total_grps - 1;
         else return -1;
-
-
-
-
-        
-
     }
 };
