@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
+| [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
+| [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 ## Merge Sort
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0022-generate-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0516-longest-palindromic-subsequence) |
+| [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
+| [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 ## Memoization
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -159,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
