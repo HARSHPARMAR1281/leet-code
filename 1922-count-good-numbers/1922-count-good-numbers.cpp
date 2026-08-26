@@ -1,6 +1,6 @@
 class Solution {
 public:
-     int M = 1e9+7;
+    int M = 1e9+7;
     long long power(long long b, long long e, long long ans) {
         if(e == 0) return ans;
         if(e & 1) return power(b, e - 1, (ans * b) % M);
