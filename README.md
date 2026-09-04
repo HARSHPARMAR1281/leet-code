@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0022-generate-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
