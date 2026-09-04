@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 ## Merge Sort
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0355-design-twitter) |
 | [0743-network-delay-time](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0743-network-delay-time) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
