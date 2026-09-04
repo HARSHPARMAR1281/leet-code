@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
+| [0355-design-twitter](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0355-design-twitter) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Memoization
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0355-design-twitter) |
 | [0743-network-delay-time](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
