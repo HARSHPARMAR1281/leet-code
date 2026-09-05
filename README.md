@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0355-design-twitter) |
+| [0433-minimum-genetic-mutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Memoization
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
