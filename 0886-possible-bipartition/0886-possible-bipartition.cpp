@@ -28,10 +28,10 @@ public:
             adj[it[1]].push_back(it[0]);
         }
         vector<int> color(n+1,-1);
-        bool output = false;
+
         for(int i = 1; i <= n; i++){
             if(color[i] == -1){
-                if(bfs(adj, i, color) == false) return false;
+                if(bfs(adj, i, color) == false ) return false;
             }
         }
         return true;
