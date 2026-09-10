@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
