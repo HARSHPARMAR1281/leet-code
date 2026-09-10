@@ -23,22 +23,19 @@ public:
             while(n--){
                 TreeNode *node = q.front();
                 q.pop();
-
                 level.push_back(node -> val);
                 if(node->left) q.push(node -> left);
                 if(node -> right) q.push(node -> right);
             }
 
             if(traversetype == 0) {
-               
                 ans.push_back(level);
                 traversetype = 1;
+                continue;
             }
-            else if(traversetype == 1){
-                reverse(level.begin() , level.end());
-                ans.push_back(level);
-                traversetype = 0;
-            }
+            reverse(level.begin() , level.end());
+            ans.push_back(level);
+            traversetype = 0;  
         }
         return ans;
     }
