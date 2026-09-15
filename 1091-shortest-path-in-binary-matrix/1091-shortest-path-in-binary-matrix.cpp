@@ -19,7 +19,7 @@ public:
                 int nc = c + dc[i];
 
                 if(nr < grid.size() && nc < grid[0].size() && grid[nr][nc] == 0 && distance[nr][nc] > dist + 1){
-                    distance[nr][nc] = dist + 1;
+                        distance[nr][nc] = dist + 1;
                     pq.push( { distance[nr][nc] , { nr , nc } } );
                 }
             }
