@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,4 +355,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
