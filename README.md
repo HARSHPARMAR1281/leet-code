@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0151-reverse-words-in-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0433-minimum-genetic-mutation) |
@@ -370,4 +372,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
