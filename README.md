@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1922-count-good-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0141-linked-list-cycle) |
