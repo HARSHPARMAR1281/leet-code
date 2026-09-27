@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1646-kth-missing-positive-number) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0516-longest-palindromic-subsequence) |
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
