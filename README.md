@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0073-set-matrix-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
