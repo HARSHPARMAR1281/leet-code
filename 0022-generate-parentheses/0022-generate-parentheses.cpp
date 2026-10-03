@@ -1,28 +1,26 @@
 class Solution {
 public:
-    void generateParenthesisRecu(int left, int right, string *str, vector<string> *result) {
-        if (left == 0 && right == 0) {
-            result->emplace_back(*str);
+    void f(int open, int close, int n, vector<string> &ans,string output){
+        if(open == 0&& close == 0) {
+            ans.push_back(output);
+            return;
         }
-        if (left > 0) {
-            str->push_back('(');
-            generateParenthesisRecu(left - 1, right, str, result);
-            str->pop_back();
+        if(open>0){
+            output+='(';
+            f(open-1,close,n,ans,output);
+            output.pop_back();
         }
-        if (left < right) {
-            str->push_back(')');
-            generateParenthesisRecu(left, right - 1, str, result);
-            str->pop_back();
+        if(close>open){
+            output+=')';
+            f(open,close-1,n,ans,output);
+            output.pop_back();
         }
     }
-
     vector<string> generateParenthesis(int n) {
-        vector<string> result;
-        string str;
-        generateParenthesisRecu(n, n, &str, &result);
-        return result;
+        vector<string> ans;
+        int open = n,close = n;
+        string output = "";
+        f(open,close,n,ans,output);
+        return ans;
     }
-
-private:
-    
 };
