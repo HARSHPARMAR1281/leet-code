@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2047-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARSHPARMAR1281/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2047-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARSHPARMAR1281/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARSHPARMAR1281/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARSHPARMAR1281/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARSHPARMAR1281/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
