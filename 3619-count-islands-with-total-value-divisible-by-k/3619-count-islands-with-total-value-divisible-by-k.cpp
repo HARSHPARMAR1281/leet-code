@@ -14,15 +14,15 @@ public:
                     continue;
 
                 long long sum = 0;
-                stack<pair<int, int>> st;
-                st.push({i, j});
+                queue<pair<int, int>> q;
+                q.push({i, j});
 
                 sum += grid[i][j];
                 grid[i][j] = 0;
 
-                while (!st.empty()) {
-                    auto [x, y] = st.top();
-                    st.pop();
+                while (!q.empty()) {
+                    auto [x, y] = q.front();
+                    q.pop();
 
                     for (int d = 0; d < 4; d++) {
                         int nx = x + dx[d];
@@ -34,7 +34,7 @@ public:
 
                             sum += grid[nx][ny];
                             grid[nx][ny] = 0;
-                            st.push({nx, ny});
+                            q.push({nx, ny});
                         }
                     }
                 }
