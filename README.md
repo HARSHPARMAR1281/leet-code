@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1020-number-of-enclaves) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1922-count-good-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
