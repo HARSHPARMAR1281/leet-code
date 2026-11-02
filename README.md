@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1020-number-of-enclaves) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0721-accounts-merge) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HARSHPARMAR1281/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Merge Sort
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HARSHPARMAR1281/leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1922-count-good-numbers](https://github.com/HARSHPARMAR1281/leet-code/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
